@@ -1,8 +1,11 @@
-// REVISION 02JUL14
+// REVISION 25JUN14
 
-	// Alpha
-	class Box_meu_suply : B_supplyCrate_F { // Box_meu_suply_Alpha
-		displayname = "[15th] Resupply Box"; // "[15th] Resupply ALPHA";
+// class CfgVehicles
+// {
+
+	//class B_supplyCrate_F;
+	class Box_meu_suply : B_supplyCrate_F {
+		displayname = "[15th] Resupply Box";
 		transportmaxmagazines = 9999;
 		transportmaxweapons = 9999;
 		transportMaxBackpacks = 9999;
@@ -11,15 +14,5 @@
 #include <\meu_ammoBoxes\resuply\transportGear\alpha.hpp>				
 	};
 	
-	// Bravo
-	class Box_meu_suply_Bravo : B_supplyCrate_F {
-		displayname = "[15th] Resupply BRAVO";
-		transportmaxmagazines = 9999;
-		transportmaxweapons = 9999;
-		transportMaxBackpacks = 9999;
-		SLX_XEH_DISABLED = 0;
-		scope = 0; // remove to enable box
-
-#include <\meu_ammoBoxes\resuply\transportGear\alpha.hpp> // bravo.hpp		
-	};	
 	
+// Dont need this};
