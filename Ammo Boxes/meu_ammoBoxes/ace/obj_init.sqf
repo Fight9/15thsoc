@@ -10,7 +10,7 @@ if (isServer) then
 };
 _crate addAction ["<t color=""#01019E"">" + ("15th Loadout Manager") + "</t>","\15th_main\lomgr\gui_start.sqf"]; 
 _crate addAction ["<t color=""#DB3503"">" + ("ACE Fixed Pilot") + "</t>","\meu_ammoBoxes\ace\A_Fixed_Pilot.sqf"];
-_crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Crew") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Crew.sqf"];
-_crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Pilot") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Pilot.sqf"];
+_crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Crew Desert)") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Crew_D.sqf"];
+_crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Pilot(Desert)") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Pilot_D.sqf"];
 _crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Crew (Woodland)") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Crew_W.sqf"];
 _crate addAction ["<t color=""#DB3503"">" + ("ACE Rotary Pilot (Woodland)") + "</t>","\meu_ammoBoxes\ace\A_Rotary_Pilot_W.sqf"];

@@ -1,4 +1,4 @@
-// REVISION 02JUL14
+// REVISION 16JUL14
 
 // class CfgVehicles
 // {
@@ -312,6 +312,30 @@
 				count = 25;
 				name = "NVGoggles_mas";
 			};
+			class _xx_AV_ESS_blk {
+				count = 25;
+				name = "AV_ESS_blk";
+			};
+			class _xx_AV_ESS_blk_clr {
+				count = 25;
+				name = "AV_ESS_blk_clr";
+			};
+			class _xx_AV_ESS_tan {
+				count = 25;
+				name = "AV_ESS_tan";
+			};
+			class _xx_AV_ESS_tan_clr {
+				count = 25;
+				name = "AV_ESS_tan_clr";
+			};
+			class _xx_AV_ESS_grn {
+				count = 25;
+				name = "AV_ESS_grn";
+			};
+			class _xx_AV_ESS_grn_clr {
+				count = 25;
+				name = "AV_ESS_grn_clr";
+			};		
 
 // ACCESSORIES
 			class _xx_ItemWatch {
@@ -329,6 +353,10 @@
 			class _xx_ItemRadio {
 				count = 100;
 				name = "ItemRadio";
+			};
+			class _xx_tf_anprc152 {
+				count = 100;
+				name = "tf_anprc152";
 			};
 			class _xx_ItemMap {
 				count = 25;

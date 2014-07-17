@@ -1,4 +1,4 @@
-// REVISION 02JUL14
+// REVISION 16JUL14
 
 // class CfgVehicles
 // {
@@ -131,6 +131,10 @@
 				count = 50;
 				name = "AGM_EarBuds";
 			};
+			class _xx_AGM_SpareBarrel {
+				count = 6;
+				name = "AGM_SpareBarrel";
+			};
 			
 // HELMETS
 			class _xx_H_mas_mar_HelmetBind_v {
@@ -161,6 +165,10 @@
 			class _xx_V_mas_mar_PlateCarrierGL_rgr_d {
 				count = 15;
 				name = "V_mas_mar_PlateCarrierGL_rgr_d";
+			};
+			class _xx_V_mas_mar_PlateCarrier1_rgr_d {
+				count = 6;
+				name = "V_mas_mar_PlateCarrier1_rgr_d";
 			};
 
 // MEDICAL
